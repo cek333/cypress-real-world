@@ -11,13 +11,9 @@ module.exports = {
     'plugin:cypress/recommended'
   ],
   'parserOptions': {
-    'ecmaFeatures': {
-      'jsx': true
-    },
     'ecmaVersion': 'latest'
   },
   'plugins': [
-    'react',
     'mocha',
     'cypress'
   ],
