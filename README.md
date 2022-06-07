@@ -6,3 +6,5 @@ I copied the app from here: <https://github.com/cypress-io/cypress-realworld-tes
 
 I'm following the cypress course here: <https://learn.cypress.io/>.
 
+UPDATE: Jun 2, 2022
+The upstream repo (<https://github.com/cypress-io/cypress-realworld-testing-todomvc>) was updated to Cypress 10 (so now it's more up-to-date than this one.)
